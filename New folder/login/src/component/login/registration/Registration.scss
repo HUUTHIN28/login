@@ -1,0 +1,42 @@
+.Registration{
+    background-color: grey;
+    width: 450px;
+    height: 180px;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 10px;
+
+     padding-top: 30px;
+table{
+    width: 100%;
+
+    }
+    tr{
+          
+        td{
+            label{
+float: left;
+margin-left: 25px;
+            }
+            .error{
+                color: red;
+                text-align: left;
+              
+                font-size: 10px;
+                height: 0px;
+                padding: 0px;
+             
+            
+            }
+       
+        }
+    }
+}
+button{
+    background-color: aqua;
+    width: 70px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+}

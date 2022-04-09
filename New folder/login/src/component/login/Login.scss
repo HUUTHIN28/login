@@ -1,0 +1,38 @@
+.login2{
+background-color: grey;
+position: fixed;
+width: 100vw;
+height: 100vh;
+.login1{
+    background-color: gainsboro;
+    width: 400px;
+    height: 220px;
+border-radius: 10px;
+    display: flex;
+    margin: auto;
+    margin-top: 10%;
+    opacity: 0.9;
+    div{
+        margin-left: 70px;
+        margin-top: 20px;
+        input{
+            margin-top: 25px;
+        }
+        button{
+            margin-left: 40px;
+            width: 70px;
+            height: 25px;
+            background-color: gray;
+border-radius: 5px;
+        }
+        label{
+             margin-right: 10px;
+        }
+        a{
+            float: right;
+            text-decoration: none;
+            color: red;
+        }
+    }
+}
+}
